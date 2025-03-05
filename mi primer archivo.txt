@@ -1,1 +1,17 @@
 prueba mi primer archivo
+pasos para actualizar git
+clonar repositorios 
+git clone http://.......
+
+para ver el estado
+git status
+
+actualizar
+
+git add.
+
+git commit -m "aqui el comentario"
+
+git push
+
+
