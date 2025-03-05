@@ -8,10 +8,13 @@ git status
 
 actualizar
 
-git add.
+git add .
 
 git commit -m "aqui el comentario"
 
 git push
+
+url de video de youtube para usar git en mac
+https://www.youtube.com/watch?v=tH15EPkRc3w
 
 
